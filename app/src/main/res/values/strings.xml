@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Dear Mechanic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Notification</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">My Profile</string>
+    <string name="menu_slideshow">Service Request</string>
+    <string name="menu_aboutus">About Us</string>
+    <string name="menu_share">Share this app</string>
+    <string name="menu_rules">Rules &amp; Regulations</string>
+    <string name="menu_language">Language</string>
+    <string name="menu_logout">Logout</string>
+    <string name="btn_customer">Customer</string>
+    <string name="btn_mechanic">Mechanic</string>
+    <string name="btn_callcentre">Call Centre</string>
+    <string name="hyperlink">Existing Customer/Mechanic/Call Centre <a href="">login here!!</a></string>
+    <string name="hyperlink1">New Customer/Mechanic/Call Centre <a href="">register here!!</a></string>
+    <string name="btn_login">Login</string>
+    <string name="btn_letsgo">Let\'s Go</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="quantity">
+        <item>Town/City</item>
+        <item>Coyambedu</item>
+        <item>Kellys</item>
+        <item>Thamparam</item>
+    </string-array>
+</resources>
